@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on usr/monetka</title>
+    <link>http://monetka.name/posts/</link>
+    <description>Recent content in Posts on usr/monetka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Nov 2021 23:12:25 +0300</lastBuildDate><atom:link href="http://monetka.name/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bio</title>
+      <link>http://monetka.name/posts/bio/</link>
+      <pubDate>Fri, 05 Nov 2021 23:12:25 +0300</pubDate>
+      
+      <guid>http://monetka.name/posts/bio/</guid>
+      <description>My name is Timofey Korzhebin. Currently I&amp;rsquo;m a software engineer student at NRNU MEPhI, Moscow, Russian Federation. I am interested in machine learning research, generative models, IoT and self-hosted solutions.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://monetka.name/posts/projects/</link>
+      <pubDate>Fri, 05 Nov 2021 23:12:13 +0300</pubDate>
+      
+      <guid>http://monetka.name/posts/projects/</guid>
+      <description>Some of my projects  Front and Back for finetuned on My Little Pony fanfiction middle GPT-2 Front for Neural Pushkin Queue Analysis - simple deeplearning solution for queue detection and control  </description>
+    </item>
+    
+    <item>
+      <title>Researches</title>
+      <link>http://monetka.name/posts/researches/</link>
+      <pubDate>Fri, 05 Nov 2021 23:12:03 +0300</pubDate>
+      
+      <guid>http://monetka.name/posts/researches/</guid>
+      <description>Some of my researches ===
+ Comparison of Combinations of Data Augmentation Methods and Transfer Learning Strategies in Image Classification Used in Convolution Deep Neural Networks AIvsBIAS - an attempt to reduce gender bias in NLP models  </description>
+    </item>
+    
+    <item>
+      <title>Personal Servises</title>
+      <link>http://monetka.name/posts/personal-servises/</link>
+      <pubDate>Fri, 05 Nov 2021 23:11:51 +0300</pubDate>
+      
+      <guid>http://monetka.name/posts/personal-servises/</guid>
+      <description>List of some my self-hosted servises  NextCloud Gitea WallaBag  </description>
+    </item>
+    
+    <item>
+      <title>Contacts</title>
+      <link>http://monetka.name/posts/contacts/</link>
+      <pubDate>Fri, 05 Nov 2021 22:58:38 +0300</pubDate>
+      
+      <guid>http://monetka.name/posts/contacts/</guid>
+      <description>Github Email Telegram</description>
+    </item>
+    
+  </channel>
+</rss>
